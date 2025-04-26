@@ -1,0 +1,6 @@
+
+# remove cpp files from source
+./*.cpp
+
+# execultable
+a.out
